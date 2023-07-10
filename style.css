@@ -1593,7 +1593,7 @@ img, svg, video, canvas, audio, iframe, embed, object {
     width: 100%;
     border-radius: 5px;
     padding: 11px;
-    color: #888888;
+    color: #353535;
 }
 .form-control select option{
     color: #222222;
